@@ -38,6 +38,14 @@ public class CapitalizeFirstLetter {
         System.out.println(capitalizeWord2("I am sonoo jaiswal"));
         System.out.println(capitalizeWord3("I am sonoo jaiswal"));
     }
+
+    /*
+        user1
+        user2
+        user3
+
+
+     */
 }
 
 
